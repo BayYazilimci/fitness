@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "react-native-fitness-app",
+    "name": "Nur fitness",
     "slug": "react-native-fitness-app",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/ic_launcher.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
@@ -19,7 +19,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/ic_launcher.png",
         "backgroundColor": "#ffffff"
       },
       "package": "com.resamm.reactnativefitnessapp"
@@ -31,6 +31,7 @@
       "eas": {
         "projectId": "798cffca-936d-41fd-9575-96b58cec7618"
       }
-    }
+    },
+    "owner": "resamm"
   }
 }
